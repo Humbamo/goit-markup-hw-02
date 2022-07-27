@@ -1,0 +1,141 @@
+.title {
+  color: #2196f3;
+  text-decoration: none;
+  font-size: 26;
+  line-height: 1, 19;
+  font-weight: 700;
+}
+header {
+  width: 1600px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+  background: #ffffff;
+}
+footer {
+  width: 1600px;
+  height: 252px;
+  left: 0px;
+  top: 0px;
+  background: #2f303a;
+  color: #ffffff;
+}
+.direction {
+  text-align: left;
+}
+.email {
+  text-align: left;
+}
+.number {
+  text-align: left;
+}
+
+.link {
+  color: #212121;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 1, 14;
+  font-weight: 500;
+}
+.link:hover,
+.link:focus {
+  color: #2196f3;
+}
+
+.contact {
+  color: #212121;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 1.14;
+  font-weight: 500;
+}
+.contact:hover,
+.contact:focus {
+  color: #2196f3;
+}
+
+.title footer {
+  color: #2196f3;
+  text-decoration: none;
+  font-size: 26;
+  line-height: 1, 19;
+  font-weight: 700;
+}
+
+section {
+  color: #ffffff;
+  width: 1600px;
+  height: 600px;
+  margin: auto;
+  background: #2f303a;
+}
+.button1 {
+  background: #2196f3;
+  color: #ffffff;
+  cursor: pointer;
+  position: absolute;
+  width: 261px;
+  height: 50px;
+  left: 666px;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 44px;
+  font-weight: 900;
+  line-height: 60px;
+  letter-spacing: 0.06em;
+  text-align: center;
+}
+h2 {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1, 14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-align: center;
+}
+h3 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+button {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 188%;
+  letter-spacing: 0.06em;
+  text-align: center;
+}
+.filter:hover,
+.filter:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+.filter {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  cursor: pointer;
+}
+#list1 li {
+  display: inline;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+img {
+  max-width: 220px;
+}
+
+figcaption {
+  background-color: #ffffff;
+  color: #212121;
+}
